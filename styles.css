@@ -1,3 +1,22 @@
+/* Hero background image */
+#hero {
+  background: url('images/ydht_awards_bg.png') center center/cover no-repeat;
+  min-height: 100vh;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+#hero .container {
+  position: relative;
+  z-index: 2;
+}
+/* Hero background image */
+#hero {
+    background: url('images/ydht_awards_bg.png') center center/cover no-repeat;
+    min-height: 100vh;
+    position: relative;
+}
 /* Google Font Import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700;800&family=Sora:wght@400;600&display=swap');
 
